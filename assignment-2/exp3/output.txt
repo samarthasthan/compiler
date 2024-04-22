@@ -1,0 +1,16 @@
+3. int : Keyword
+8. add : Identifier
+11. ( : Parenthesis
+14. int : Keyword
+17. a : Identifier
+19. , : Punctuations
+23. int : Keyword
+26. b : Identifier
+28. ) : Parenthesis
+29. { : Brackets
+37. 	return : Identifier
+40. a : Identifier
+42. + : Arithmetic Operator
+43. b : Identifier
+45. ; : Punctuations
+47. } : Brackets
